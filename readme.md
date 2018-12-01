@@ -19,14 +19,14 @@
 
 | 数据集                  | 数据概览                                                     | 下载地址                                                     |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ChnSentiCorp_htl_all    | 7000 多条酒店评论数据，5000 多条正向评论，2000 多条负向评论  | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all/intro.ipynb) |
-| waimai_10k              | 某外卖平台收集的用户评价，正向 4000 条，负向 约 8000 条      | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/waimai_10k/intro.ipynb) |
-| online_shopping_10_cats | 10 个类别，共 6 万多条评论数据，正、负向评论各约 3 万条， 包括书籍、平板、手机、水果、洗发水、热水器、蒙牛、衣服、计算机、酒店 | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/online_shopping_10_cats/intro.ipynb) |
-| weibo_senti_100k        | 10 万多条，带情感标注 新浪微博，正负向评论约各 5 万条        | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb) |
-| simplifyweibo_4_moods   | 36 万多条，带情感标注 新浪微博，包含 4 种情感， 其中喜悦约 20 万条，愤怒、厌恶、低落各约 5 万条 | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/simplifyweibo_4_moods/intro.ipynb) |
-| dmsc_v2                 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据         | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb) |
-| yf_dianping             | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_dianping/intro.ipynb) |
-| yf_amazon               | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb) |
+| ChnSentiCorp_htl_all    | 7000 多条酒店评论数据，5000 多条正向评论，2000 多条负向评论  | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all/intro.ipynb) |
+| waimai_10k              | 某外卖平台收集的用户评价，正向 4000 条，负向 约 8000 条      | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/waimai_10k/intro.ipynb) |
+| online_shopping_10_cats | 10 个类别，共 6 万多条评论数据，正、负向评论各约 3 万条， 包括书籍、平板、手机、水果、洗发水、热水器、蒙牛、衣服、计算机、酒店 | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/online_shopping_10_cats/intro.ipynb) |
+| weibo_senti_100k        | 10 万多条，带情感标注 新浪微博，正负向评论约各 5 万条        | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/weibo_senti_100k/intro.ipynb) |
+| simplifyweibo_4_moods   | 36 万多条，带情感标注 新浪微博，包含 4 种情感， 其中喜悦约 20 万条，愤怒、厌恶、低落各约 5 万条 | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/simplifyweibo_4_moods/intro.ipynb) |
+| dmsc_v2                 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据         | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb) |
+| yf_dianping             | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_dianping/intro.ipynb) |
+| yf_amazon               | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb) |
 
 
 
