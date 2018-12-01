@@ -115,9 +115,6 @@ news_entertainment       0.86      0.86      0.86      8078
 
 ```
 
+下载地址：
 
-### NLP chat group
-
-Welcome
-
-![](http://fate2.oss-cn-shanghai.aliyuncs.com/meta/qq-qun-nlp.jpeg)
+https://github.com/fateleak/toutiao-text-classfication-dataset

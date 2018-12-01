@@ -39,17 +39,17 @@
 - ## boson数据。
 
   - 包含6种实体类型。
-  - NER/boson
+  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA/boson
 
 - ## 1998年人民日报数据集。
 
   - 人名、地名、组织名三种实体类型 
-  - NER/renMinRiBao
+  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/[renMinRiBao](https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao) 
 
 - ## MSRA微软亚洲研究院数据集。
 
   - 5 万多条中文命名实体识别标注数据（包括地点、机构、人物） 
-  - NER/MSRA
+  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA
 
 # 3. 搜索匹配
 
