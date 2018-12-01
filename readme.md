@@ -17,7 +17,7 @@
 
 ## 情感/观点/评论 倾向性分析
 
-| 数据集                  | 数据概览                                                     | 下载地址                                                     |
+| 数据集                  | 数据概览                                                     | 下载                                                         |
 | ----------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ChnSentiCorp_htl_all    | 7000 多条酒店评论数据，5000 多条正向评论，2000 多条负向评论  | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/ChnSentiCorp_htl_all/intro.ipynb) |
 | waimai_10k              | 某外卖平台收集的用户评价，正向 4000 条，负向 约 8000 条      | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/waimai_10k/intro.ipynb) |
