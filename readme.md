@@ -1,8 +1,9 @@
-# **ChineseNlpCorpus**
+# ChineseNlpCorpus
 
 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
 
 [TOC]
+
 
 # 文本分类
 
@@ -191,7 +192,7 @@ CoNLL 2012 ：<http://conll.cemantix.org/2012/data.html>
 
 # NLP工具
 
- [THULAC：一个高效的中文词法分析工具包](<https://github.com/thunlp/THULAC> ) ：包括中文分词、词性标注功能。
+THULAC： [https://github.com/thunlp/THULAC](<https://github.com/thunlp/THULAC> ) ：包括中文分词、词性标注功能。
 
 HanLP：<https://github.com/hankcs/HanLP> 
 
