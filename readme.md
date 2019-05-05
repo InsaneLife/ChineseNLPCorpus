@@ -2,7 +2,9 @@
 
 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
 
-# 1. 文本分类
+[TOC]
+
+# 文本分类
 
 ## 新闻分类
 
@@ -35,7 +37,7 @@
 
 
 
-# 2. 实体识别：
+# 实体识别&词性标注
 
 - ## 微博实体识别.
 
@@ -56,7 +58,12 @@
   - 5 万多条中文命名实体识别标注数据（包括地点、机构、人物） 
   - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA
 
-# 3. 搜索匹配
+- SIGHAN Bakeoff 2005：一共有四个数据集，包含繁体中文和简体中文，下面是简体中文分词数据。
+
+  -  MSR: <http://sighan.cs.uchicago.edu/bakeoff2005/>
+  -  PKU ：<http://sighan.cs.uchicago.edu/bakeoff2005/> 
+
+# 搜索匹配
 
 ## OPPO手机搜索排序
 
@@ -72,7 +79,7 @@ OPPO手机搜索排序query-title语义匹配数据集。
 
 - https://www.sogou.com/labs/resource/e.php
 
-# 4. 推荐系统
+# 推荐系统
 
 | 数据集      | 数据概览                                                     | 下载地址                                                     |
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -81,7 +88,7 @@ OPPO手机搜索排序query-title语义匹配数据集。
 | yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_dianping/intro.ipynb) |
 | yf_amazon   | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb) |
 
-# 5. 百科数据 
+# 百科数据 
 
 ## 维基百科
 
@@ -96,7 +103,11 @@ OPPO手机搜索排序query-title语义匹配数据集。
 
 
 
-# 6. 预训练：（词向量or模型）
+# 指代消歧 
+
+CoNLL 2012 ：<http://conll.cemantix.org/2012/data.html> 
+
+# 预训练：（词向量or模型）
 
 ## BERT
 
@@ -175,3 +186,17 @@ OPPO手机搜索排序query-title语义匹配数据集。
 - ## 维基百科数据集
 
   - https://dumps.wikimedia.org/
+
+
+
+# NLP工具
+
+ [THULAC：一个高效的中文词法分析工具包](<https://github.com/thunlp/THULAC> ) ：包括中文分词、词性标注功能。
+
+HanLP：<https://github.com/hankcs/HanLP> 
+
+哈工大LTP <https://github.com/HIT-SCIR/ltp> 
+
+NLPIR <https://github.com/NLPIR-team/NLPIR>
+
+jieba <https://github.com/yanyiwu/cppjieba> 
