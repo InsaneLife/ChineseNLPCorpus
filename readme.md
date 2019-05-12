@@ -48,12 +48,12 @@
 - ## boson数据。
 
   - 包含6种实体类型。
-  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/MSRA/boson
+  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/boson
 
 - ## 1998年人民日报数据集。
 
   - 人名、地名、组织名三种实体类型 
-  - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/[renMinRiBao](https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao) 
+  - [https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao](https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao) 
 
 - ## MSRA微软亚洲研究院数据集。
 
