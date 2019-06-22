@@ -50,11 +50,11 @@
   - 包含6种实体类型。
   - https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/boson
 
-- ## 1998年人民日报数据集。
+- ## 人民日报数据集。
 
   - 人名、地名、组织名三种实体类型 
-  - [https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao](https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao) 
-
+  - 1998：[https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao](https://github.com/InsaneLife/ChineseNLPCorpus/tree/master/NER/renMinRiBao) 
+  - 2004：https://pan.baidu.com/s/1LDwQjoj7qc-HT9qwhJ3rcA password: 1fa3
 - ## MSRA微软亚洲研究院数据集。
 
   - 5 万多条中文命名实体识别标注数据（包括地点、机构、人物） 
