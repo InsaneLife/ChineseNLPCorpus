@@ -71,8 +71,7 @@
 
 OPPO手机搜索排序query-title语义匹配数据集。
 
-下载链接：https://pan.baidu.com/s/1Obm8oRVZEIh76-cpPc0qZw
-
+链接:https://pan.baidu.com/s/1Hg2Hubsn3GEuu4gubbHCzw 提取码:7p3n
 
 
 ## 网页搜索结果评价(SogouE)
