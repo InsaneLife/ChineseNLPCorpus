@@ -1,5 +1,6 @@
 # -*- coding: UTF-8 -*-
 
+from __future__ import print_function
 import codecs
 import re
 import pdb
@@ -87,8 +88,8 @@ def data2pkl():
             labels.append(linelabel)
 
     input_data.close()
-    print len(datas)
-    print len(labels)
+    print(len(datas))
+    print(len(labels))
     from compiler.ast import flatten
     all_words = flatten(datas)
     sr_allwords = pd.Series(all_words)
@@ -105,7 +106,7 @@ def data2pkl():
     id2tag = pd.Series(tags, index=tag_ids)
     word2id["unknow"]=len(word2id)+1
     id2word[len(word2id)]="unknow"
-    print tag2id
+    print(tag2id)
     max_len = 60
     def X_padding(words):
         ids = list(word2id[words])
@@ -144,7 +145,7 @@ def data2pkl():
 	    pickle.dump(y_test, outp)
 	    pickle.dump(x_valid, outp)
 	    pickle.dump(y_valid, outp)
-    print '** Finished saving the data.'
+    print('** Finished saving the data.')
     
 
 

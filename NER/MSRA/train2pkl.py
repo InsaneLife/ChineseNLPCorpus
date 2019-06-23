@@ -1,4 +1,5 @@
 #coding:utf-8
+from __future__ import print_function
 import codecs
 import re
 import pandas as pd
@@ -88,8 +89,8 @@ for line in input_data.readlines():
             labels.append(linelabel)
             
 input_data.close()    
-print len(datas)
-print len(labels)
+print(len(datas))
+print(len(labels))
     
 from compiler.ast import flatten
 all_words = flatten(datas)
@@ -130,7 +131,7 @@ x_train,x_test, y_train, y_test = train_test_split(x, y, test_size=0.1, random_s
 x_train, x_valid, y_train, y_valid = train_test_split(x_train, y_train,  test_size=0.2, random_state=43)
 
 
-print 'Finished creating the data generator.'
+print('Finished creating the data generator.')
 import pickle
 import os
 with open('../dataMSRA.pkl', 'wb') as outp:
@@ -144,6 +145,6 @@ with open('../dataMSRA.pkl', 'wb') as outp:
 	pickle.dump(y_test, outp)
 	pickle.dump(x_valid, outp)
 	pickle.dump(y_valid, outp)
-print '** Finished saving the data.'
+print('** Finished saving the data.')
 
 
