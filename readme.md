@@ -115,7 +115,21 @@ CoNLL 2012 ：<http://conll.cemantix.org/2012/data.html>
 1. 开源代码：https://github.com/google-research/bert
 2. 模型下载：[**BERT-Base, Chinese**](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip): Chinese Simplified and Traditional, 12-layer, 768-hidden, 12-heads, 110M parameters
 
+BERT变种模型：
 
+| 模型                                                         | 参数 | git                                                          |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [Chinese-BERT-base](https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip) | 108M | [BERT](https://github.com/google-research/bert)              |
+| [Chinese-BERT-wwm-ext](https://drive.google.com/open?id=1Jzn1hYwmv0kXkfTeIvNT61Rn1IbRc-o8) | 108M | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) |
+| [RBT3](https://drive.google.com/open?id=1-rvV0nBDvRCASbRz8M9Decc3_8Aw-2yi) | 38M  | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) |
+| [ERNIE 1.0 Base 中文](https://ernie-github.cdn.bcebos.com/model-ernie1.0.1.tar.gz) | 108M | [ERNIE](https://github.com/PaddlePaddle/ERNIE)、ernie模型转成tensorflow模型:[tensorflow_ernie](https://github.com/ArthurRizar/tensorflow_ernie) |
+| [RoBERTa-large](https://drive.google.com/open?id=1W3WgPJWGVKlU9wpUYsdZuurAIFKvrl_Y) | 334M | [RoBERT](https://github.com/brightmart/roberta_zh)           |
+| [XLNet-mid](https://drive.google.com/open?id=1342uBc7ZmQwV6Hm6eUIN_OnBSz1LcvfA) | 209M | [XLNet-mid](https://github.com/ymcui/Chinese-PreTrained-XLNet) |
+| [ALBERT-large](https://storage.googleapis.com/albert_zh/albert_large_zh.zip) | 59M  | [Chinese-ALBERT](https://github.com/brightmart/albert_zh)    |
+| [ALBERT-xlarge](https://storage.googleapis.com/albert_zh/albert_xlarge_zh_183k.zip) |      | [Chinese-ALBERT](https://github.com/brightmart/albert_zh)    |
+| [ALBERT-tiny](https://storage.googleapis.com/albert_zh/albert_tiny_489k.zip) | 4M   | [Chinese-ALBERT](https://github.com/brightmart/albert_zh)    |
+| [chinese-roberta-wwm-ext](https://www.paddlepaddle.org.cn/hubdetail?name=chinese-roberta-wwm-ext&en_category=SemanticModel) | 108M | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) |
+| [chinese-roberta-wwm-ext-large](https://www.paddlepaddle.org.cn/hubdetail?name=chinese-roberta-wwm-ext-large&en_category=SemanticModel) | 330M | [Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm) |
 
 ## ELMO
 
