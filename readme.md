@@ -29,11 +29,12 @@
 | Domain | 24    |
 | Intent | 29    |
 | Slot   | 63    |
-|        | 2579  |
+| Samples   | 2579  |
 
 
 
 ### SMP-2017
+官网：[http://www.cips-smp.org/smp_data/2](http://www.cips-smp.org/smp_data/2)
 中文对话意图识别数据集，官方git: [https://github.com/HITlilingzhi/SMP2017ECDT-DATA](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
 数据集：
