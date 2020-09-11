@@ -34,8 +34,7 @@
 
 
 ### SMP-2017
-官网：[http://www.cips-smp.org/smp_data/2](http://www.cips-smp.org/smp_data/2)
-中文对话意图识别数据集，官方git: [https://github.com/HITlilingzhi/SMP2017ECDT-DATA](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
+中文对话意图识别数据集，官方git和数据: [https://github.com/HITlilingzhi/SMP2017ECDT-DATA](https://github.com/HITlilingzhi/SMP2017ECDT-DATA)
 
 数据集：
 
@@ -46,7 +45,7 @@
 | Test samples  | 666   |
 | Domain        | 31    |
 
-论文：[https://arxiv.org/abs/1709.10217  ](https://arxiv.org/abs/1709.10217  )
+论文：[https://arxiv.org/abs/1709.10217  ](https://arxiv.org/abs/1709.10217)
 
 # 文本分类
 
