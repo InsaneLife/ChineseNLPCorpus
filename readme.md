@@ -20,7 +20,7 @@
 ## SMP
 这是一系类数据集，每年都会有新的数据集放出。
 ### SMP-2020-ECDT小样本对话语言理解数据集
-> 论文中叫FewJoint 基准数据集，来自于讯飞AIUI开放平台上真实用户语料和专家构造的语料，包含59个真实domain，目前domain最多的对话数据集之一，可以避免构造模拟domain，非常适合小样本和元学习方法评测。其中45个训练domain，5个开发domain，9个测试domain。
+> 论文中叫FewJoint 基准数据集，来自于讯飞AIUI开放平台上真实用户语料和专家构造的语料(比例大概为3：7)，包含59个真实domain，目前domain最多的对话数据集之一，可以避免构造模拟domain，非常适合小样本和元学习方法评测。其中45个训练domain，5个开发domain，9个测试domain。
 
 数据集介绍：[新闻链接](https://mp.weixin.qq.com/s?__biz=MzIxMjAzNDY5Mg==&mid=2650799572&idx=1&sn=509e256c62d80e2866f38e9d026d4af3&chksm=8f47683fb830e129f0ac7d2ff294ad1bd2cad5dc2050ae1ab81a7b108b79a6edcdba3d8030f9&mpshare=1&scene=1&srcid=1007YJCULNtwsRCUx7b35S0m&sharer_sharetime=1602603945222&sharer_shareid=904fa30621d7b898b031f4fdb5da41fc&key=9ae93b5dab71cae000c0dd901c537565d9fac572f40bafa92d79cee849b96fddbdece4d7151bec0f9a1c330dc3a9ddfe5ff4d742eef3165a71be493cd344e6ebc0a34dd5ebc61cb3c519f3a1d765f480cd5fd85d6b45655cc09b9816726ff06c2480b5287346c11ef1a18c0195b51259bd768110b49eb4b7583b40580369bcd2&ascene=1&uin=MTAxMzA5NjY2NQ%3D%3D&devicetype=Windows+10+x64&version=6300002f&lang=zh_CN&exportkey=ATbSQY9SBUjBETt7KZpV%2BIk%3D&pass_ticket=gGOfSeYJMhUPfn3Fbu8lBtWlGjw%2BANSIQ4rgajKq6vxzOW%2Fm%2Bwcw3YkXM0bkiM%2Bz&wx_header=0)
 
