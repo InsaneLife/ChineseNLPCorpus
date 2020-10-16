@@ -12,7 +12,7 @@
 
 数据统计：
 
-![image-20200910233858454](https://raw.githubusercontent.com/InsaneLife/ChineseNLPCorpus/master/pic/image-20200910233858454.png)
+![image-20200910233858454](https://cdn.jsdelivr.net/gh/InsaneLife/ChineseNLPCorpus@master/pic/image-20200910233858454.png)
 
 官方说明手册：[CATSLU](https://sites.google.com/view/catslu/handbook)
 数据下载：[https://sites.google.com/view/CATSLU/home](https://sites.google.com/view/CATSLU/home)
