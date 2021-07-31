@@ -19,6 +19,14 @@
 
 # 任务型对话数据
 
+## Medical DS
+
+复旦大学发布的基于百度拇指医生上真实对话数据的，面向任务型对话的中文医疗诊断数据集。
+
+| 名称       | 规模                       | 创建日期 | 作者       | 单位     | 论文                                                         | 下载                                                         |
+| ---------- | -------------------------- | -------- | ---------- | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Medical DS | 710个对话 67种症状 4种疾病 | 2018年   | Liu et al. | 复旦大学 | [链接](http://www.sdspeople.fudan.edu.cn/zywei/paper/liu-acl2018.pdf) | [链接](http://www.sdspeople.fudan.edu.cn/zywei/data/acl2018-mds.zip) |
+
 ## 千言数据集
 
 包含知识对话、推荐对话、画像对话。详细见[官网](https://aistudio.baidu.com/aistudio/competition/detail/48/?isFromLUGE=TRUE)
@@ -34,7 +42,12 @@
 官方说明手册：[CATSLU](https://sites.google.com/view/catslu/handbook)
 数据下载：[https://sites.google.com/view/CATSLU/home](https://sites.google.com/view/CATSLU/home)
 
+## NLPCC2018 Shared Task 4
+
+中文呢真实商用车载语音任务型对话系统的对话日志
+
 ## SMP
+
 这是一系类数据集，每年都会有新的数据集放出。
 ### SMP-2020-ECDT小样本对话语言理解数据集
 > 论文中叫FewJoint 基准数据集，来自于讯飞AIUI开放平台上真实用户语料和专家构造的语料(比例大概为3：7)，包含59个真实domain，目前domain最多的对话数据集之一，可以避免构造模拟domain，非常适合小样本和元学习方法评测。其中45个训练domain，5个开发domain，9个测试domain。
@@ -107,7 +120,7 @@
 
 
 
-# 实体识别&词性标注
+# 实体识别&词性标注&分词
 
 - ## 微博实体识别.
 
@@ -133,7 +146,17 @@
   -  MSR: <http://sighan.cs.uchicago.edu/bakeoff2005/>
   -  PKU ：<http://sighan.cs.uchicago.edu/bakeoff2005/> 
 
-# 语义解析
+另外这三个链接里面数据集也挺全的，链接：
+
+- [分词](https://github.com/luge-ai/luge-ai/blob/master/lexical-analysis/word-segment.md)
+- [词性标注](https://github.com/luge-ai/luge-ai/blob/master/lexical-analysis/part-of-speech-tagging.md)
+- [命名实体](https://github.com/luge-ai/luge-ai/blob/master/lexical-analysis/name-entity-recognition.md)
+
+# 句法&语义解析
+
+- [依存句法](https://github.com/luge-ai/luge-ai/blob/master/dependency-parsing/dependency-parsing.md)
+
+## 语义解析
 
 - 看方法主要还是转化为分类和ner任务。下载地址：[https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE](https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE)
 
@@ -145,7 +168,11 @@
 
 
 
-# 信息抽取和实体链接
+# 信息抽取
+
+- [实体链指](https://github.com/luge-ai/luge-ai/blob/master/information-extraction/entity_linking.md)
+- [关系抽取](https://github.com/luge-ai/luge-ai/blob/master/information-extraction/relation-extraction.md)
+- [事件抽取](https://github.com/luge-ai/luge-ai/blob/master/information-extraction/event-extraction.md)
 
 # 搜索匹配
 
