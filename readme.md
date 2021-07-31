@@ -133,6 +133,16 @@
   -  MSR: <http://sighan.cs.uchicago.edu/bakeoff2005/>
   -  PKU ：<http://sighan.cs.uchicago.edu/bakeoff2005/> 
 
+# 语义解析
+
+- 下载地址：[https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE](https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE)
+
+| 数据集  | 单/多表 | 语言 | 复杂度 | 数据库/表格 | 训练集 | 验证集 | 测试集 | 文档                                       |
+| :-----: | :-----: | :--: | :----: | :---------: | :----: | :----: | :----: | ------------------------------------------ |
+| NL2SQL  |   单    | 中文 |  简单  | 5,291/5,291 | 41,522 | 4,396  | 8,141  | [NL2SQL](https://arxiv.org/abs/2006.06434) |
+| CSpider |   多    | 中英 |  复杂  |   166/876   | 6,831  |  954   | 1,906  |                                            |
+|  DuSQL  |   多    | 中文 |  复杂  |   200/813   | 22,521 | 2,482  | 3,759  |                                            |
+
 # 搜索匹配
 
 ## 千言文本相似度
