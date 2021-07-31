@@ -135,13 +135,17 @@
 
 # 语义解析
 
-- 下载地址：[https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE](https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE)
+- 看方法主要还是转化为分类和ner任务。下载地址：[https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE](https://aistudio.baidu.com/aistudio/competition/detail/47/?isFromLUGE=TRUE)
 
 | 数据集  | 单/多表 | 语言 | 复杂度 | 数据库/表格 | 训练集 | 验证集 | 测试集 | 文档                                                         |
 | :-----: | :-----: | :--: | :----: | :---------: | :----: | :----: | :----: | ------------------------------------------------------------ |
 | NL2SQL  |   单    | 中文 |  简单  | 5,291/5,291 | 41,522 | 4,396  | 8,141  | [NL2SQL](https://arxiv.org/abs/2006.06434)                   |
 | CSpider |   多    | 中英 |  复杂  |   166/876   | 6,831  |  954   | 1,906  | [CSpider](https://arxiv.org/abs/1909.13293)                  |
 |  DuSQL  |   多    | 中文 |  复杂  |   200/813   | 22,521 | 2,482  | 3,759  | [DuSQL](https://www.aclweb.org/anthology/2020.emnlp-main.562.pdf) |
+
+
+
+# 信息抽取和实体链接
 
 # 搜索匹配
 
@@ -297,3 +301,5 @@ HanLP：<https://github.com/hankcs/HanLP>
 NLPIR <https://github.com/NLPIR-team/NLPIR>
 
 jieba <https://github.com/yanyiwu/cppjieba> 
+
+百度千言数据集：[https://github.com/luge-ai/luge-ai](https://github.com/luge-ai/luge-ai)
