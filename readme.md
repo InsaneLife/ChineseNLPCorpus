@@ -166,7 +166,7 @@
 
 # 句法&语义解析
 
-- [依存句法](https://github.com/luge-ai/luge-ai/blob/master/dependency-parsing/dependency-parsing.md)
+## [依存句法](https://github.com/luge-ai/luge-ai/blob/master/dependency-parsing/dependency-parsing.md)
 
 ## 语义解析
 
