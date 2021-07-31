@@ -5,9 +5,26 @@
 
 中文自然语言处理数据集，平时做做实验的材料。欢迎补充提交合并。
 
+# 阅读理解
+
+## 百度千言
+
+百度的千言数据集，可以用来做中文阅读理解实验，主要包含：
+
+- $DuReader_{robust}$:单篇章、抽取式阅读理解数据集，数据集详细参考[论文](https://arxiv.org/abs/2004.11142)
+- $DuReader_{yesno}$:观点型阅读理解数据集，主要是极性，肯定、否定和无法确定/分情况
+- $DuReader_{checklist}$: 抽取式数据集，[详细](https://github.com/PaddlePaddle/Research/tree/master/NLP/DuReader-Checklist-BASELINE)
+
+[数据集下载](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE)
+
 # 任务型对话数据
 
+## 千言数据集
+
+包含知识对话、推荐对话、画像对话。详细见[官网](https://aistudio.baidu.com/aistudio/competition/detail/48/?isFromLUGE=TRUE)
+
 ## [CATSLU](https://dl.acm.org/doi/10.1145/3340555.3356098)
+
 之前的一些对话数据集集中于语义理解，而工业界真实情况ASR也会有错误，往往被忽略。[CATSLU](https://dl.acm.org/doi/10.1145/3340555.3356098)而是一个中文语音+NLU文本理解的对话数据集，可以从语音信号到理解端到端进行实验，例如直接从音素建模语言理解（而非word or token）。
 
 数据统计：
@@ -84,6 +101,9 @@
 | dmsc_v2                 | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据         | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/dmsc_v2/intro.ipynb) |
 | yf_dianping             | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_dianping/intro.ipynb) |
 | yf_amazon               | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [地址](https://github.com/SophonPlus/ChineseNlpCorpus/blob/master/datasets/yf_amazon/intro.ipynb) |
+| 百度千言情感分析数据集  | 包括句子级情感分类（Sentence-level Sentiment Classification）、评价对象级情感分类（Aspect-level Sentiment Classification）、观点抽取（Opinion Target Extraction） | [地址](https://aistudio.baidu.com/aistudio/competition/detail/50/?isFromLUGE=TRUE) |
+
+
 
 
 
@@ -114,6 +134,10 @@
   -  PKU ：<http://sighan.cs.uchicago.edu/bakeoff2005/> 
 
 # 搜索匹配
+
+## 千言文本相似度
+
+百度千言文本相似度，主要包含LCQMC/BQ Corpus/PAWS-X，见[官网](https://aistudio.baidu.com/aistudio/competition/detail/45/?isFromLUGE=TRUE)，丰富文本匹配的数据，可以作为目标匹配数据集的源域数据，进行多任务学习/迁移学习。
 
 ## OPPO手机搜索排序
 
