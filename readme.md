@@ -11,6 +11,14 @@
 
 百度的千言数据集，可以用来做中文阅读理解实验，主要包含：
 
+| 名称     | 规模                        | 说明                         | 单位 | 论文                                                  | 下载                                                         | 评测                                                         |
+| -------- | --------------------------- | ---------------------------- | ---- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| DuReader | 30万问题 140万文档 66万答案 | 问答阅读理解数据集 | 百度 | [链接](https://www.aclweb.org/anthology/W18-2605.pdf) | [链接](https://ai.baidu.com/broad/introduction?dataset=dureader) | [2018 NLP Challenge on MRC](http://mrc2018.cipsc.org.cn/) [2019 Language and Intelligence Challenge on MRC](http://lic2019.ccf.org.cn/) |
+| $DuReader_{robust}$ | 2.2万问题 | 单篇章、抽取式阅读理解数据集 | 百度 |   | [链接](https://github.com/PaddlePaddle/Research/tree/master/NLP/DuReader-Robust-BASELINE) | [评测](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) |
+| CMRC 2018 | 2万问题 | 篇章片段抽取型阅读理解 | 哈工大讯飞联合实验室 | [链接](https://www.aclweb.org/anthology/D19-1600.pdf) | [链接](https://github.com/ymcui/cmrc2018) | [第二届“讯飞杯”中文机器阅读理解评测](https://hfl-rc.github.io/cmrc2018/) |
+| $DuReader_{yesno}$     | 9万                         | 观点型阅读理解数据集         | 百度                 |                                                       | [链接](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) | [评测](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) |
+| $DuReader_{checklist}$ | 1万 | 抽取式数据集 | 百度 |                                                       | [链接](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) |                                                              |
+
 - $DuReader_{robust}$:单篇章、抽取式阅读理解数据集，数据集详细参考[论文](https://arxiv.org/abs/2004.11142)
 - $DuReader_{yesno}$:观点型阅读理解数据集，主要是极性，肯定、否定和无法确定/分情况
 - $DuReader_{checklist}$: 抽取式数据集，[详细](https://github.com/PaddlePaddle/Research/tree/master/NLP/DuReader-Checklist-BASELINE)
@@ -44,7 +52,11 @@
 
 ## NLPCC2018 Shared Task 4
 
-中文呢真实商用车载语音任务型对话系统的对话日志
+中文呢真实商用车载语音任务型对话系统的对话日志.
+
+| 名称                    | 规模               | 创建日期 | 作者        | 单位 | 论文                                                         | 下载                                                         | 评测                                                         |
+| ----------------------- | ------------------ | -------- | ----------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| NLPCC2018 Shared Task 4 | 5800对话 2.6万问题 | 2018年   | zhao et al. | 腾讯 | [链接](http://tcci.ccf.org.cn/conference/2018/papers/EV33.pdf) | [训练开发集](http://tcci.ccf.org.cn/conference/2018/dldoc/trainingdata04.zip) [测试集](http://tcci.ccf.org.cn/conference/2018/dldoc/tasktestdata04.zip) | [NLPCC 2018 Spoken Language Understanding in Task-oriented Dialog Systems](http://tcci.ccf.org.cn/conference/2018/taskdata.php) |
 
 ## SMP
 
