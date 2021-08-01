@@ -7,9 +7,7 @@
 
 # 阅读理解
 
-## 百度千言
-
-百度的千言数据集，可以用来做中文阅读理解实验，主要包含：
+阅读理解数据集按照方法主要有：抽取式、分类（观点提取）。按照篇章又分为单篇章、多篇章，比如有的问题答案可能需要从多个文章中提取，每个文章可能都只是一部分，那么多篇章提取就会面临怎么合并，合并的时候怎么去掉重复的，保留补充的。
 
 | 名称     | 规模                        | 说明                         | 单位 | 论文                                                  | 下载                                                         | 评测                                                         |
 | -------- | --------------------------- | ---------------------------- | ---- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -18,12 +16,6 @@
 | CMRC 2018 | 2万问题 | 篇章片段抽取型阅读理解 | 哈工大讯飞联合实验室 | [链接](https://www.aclweb.org/anthology/D19-1600.pdf) | [链接](https://github.com/ymcui/cmrc2018) | [第二届“讯飞杯”中文机器阅读理解评测](https://hfl-rc.github.io/cmrc2018/) |
 | $DuReader_{yesno}$     | 9万                         | 观点型阅读理解数据集         | 百度                 |                                                       | [链接](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) | [评测](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) |
 | $DuReader_{checklist}$ | 1万 | 抽取式数据集 | 百度 |                                                       | [链接](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE) |                                                              |
-
-- $DuReader_{robust}$:单篇章、抽取式阅读理解数据集，数据集详细参考[论文](https://arxiv.org/abs/2004.11142)
-- $DuReader_{yesno}$:观点型阅读理解数据集，主要是极性，肯定、否定和无法确定/分情况
-- $DuReader_{checklist}$: 抽取式数据集，[详细](https://github.com/PaddlePaddle/Research/tree/master/NLP/DuReader-Checklist-BASELINE)
-
-[数据集下载](https://aistudio.baidu.com/aistudio/competition/detail/49/?isFromLUGE=TRUE)
 
 # 任务型对话数据
 
