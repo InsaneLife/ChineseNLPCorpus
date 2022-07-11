@@ -50,6 +50,8 @@
 | ----------------------- | ------------------ | -------- | ----------- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | NLPCC2018 Shared Task 4 | 5800对话 2.6万问题 | 2018年   | zhao et al. | 腾讯 | [链接](http://tcci.ccf.org.cn/conference/2018/papers/EV33.pdf) | [训练开发集](http://tcci.ccf.org.cn/conference/2018/dldoc/trainingdata04.zip) [测试集](http://tcci.ccf.org.cn/conference/2018/dldoc/tasktestdata04.zip) | [NLPCC 2018 Spoken Language Understanding in Task-oriented Dialog Systems](http://tcci.ccf.org.cn/conference/2018/taskdata.php) |
 
+NLPCC每年都会举办，包含大量中文数据集，如对话、qa、ner、情感检测、摘要等任务
+
 ## SMP
 
 这是一系类数据集，每年都会有新的数据集放出。
