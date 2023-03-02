@@ -259,7 +259,7 @@ BERT变种模型：
 
 腾讯AI实验室公开的中文词向量数据集包含800多万中文词汇，其中每个词对应一个200维的向量。
 
-- 下载地址：~~https://ai.tencent.com/ailab/nlp/embedding.html~~，网页已经失效，有网盘链接同学希望分享下
+- 下载地址：<https://ai.tencent.com/ailab/nlp/en/download.html>
 
 
 
