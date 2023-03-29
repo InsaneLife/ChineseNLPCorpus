@@ -261,7 +261,7 @@ BERT变种模型：
 
 - 下载地址：~~https://ai.tencent.com/ailab/nlp/embedding.html~~，网页已经失效，有网盘链接同学希望分享下
 
-
+下载地址：[https://ai.tencent.com/ailab/nlp/en/download.html](https://ai.tencent.com/ailab/nlp/en/download.html)
 
 
 ## **上百种预训练中文词向量**
