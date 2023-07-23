@@ -320,6 +320,7 @@ BERT变种模型：
 - ## 维基百科数据集
 
   - https://dumps.wikimedia.org/
+  - 中文维基百科23万条高质量词条数据集（更新至2307）：https://huggingface.co/datasets/pleisto/wikipedia-cn-20230720-filtered
 
 
 
